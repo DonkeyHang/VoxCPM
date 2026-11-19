@@ -688,3 +688,5 @@ VoxCPM 模型权重和代码基于 [Apache-2.0](LICENSE) 协议开源。
 ## ⭐ Star 历史
 
 [![Star History Chart](https://api.star-history.com/svg?repos=OpenBMB/VoxCPM&type=Date)](https://star-history.com/#OpenBMB/VoxCPM&Date)
+
+=============
